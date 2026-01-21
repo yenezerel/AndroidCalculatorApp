@@ -29,7 +29,7 @@ Android kullanıcı arayüzü yönetimi ve temel aritmetik işlemlerin uygulanma
 
 ## 📸 Ekran Görüntüsü
 
-![Calculator Screenshot](screenshots/calculation_example.png)
+<img src="screenshots/calculation_example.png" alt="Calculator" width="300"/>
 
 ---
 
